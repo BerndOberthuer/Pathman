@@ -1,3 +1,5 @@
+import Foundation
+
 import let Cglob.GLOB_ABORTED
 import let Cglob.GLOB_NOMATCH
 import let Cglob.GLOB_NOSPACE
